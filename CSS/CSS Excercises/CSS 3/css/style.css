@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+div{
+    width: 200px;
+    height: 200px;
+    /* display:inline-block */
+}
+
+.top-container{
+    background-color: red;
+    position: absolute;
+    top: 400px;
+    left:400px;
+}
+
+.mid-container{
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+}
+
+.bot-container{
+    background-color: yellow;
+    position: absolute;
+}
