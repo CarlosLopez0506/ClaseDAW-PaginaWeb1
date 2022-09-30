@@ -1,0 +1,1 @@
+console.log("There's a new superhero on town... " + require("superheroes").random() + "!");
