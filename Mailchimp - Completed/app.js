@@ -4,7 +4,7 @@ const https = require("https");
 const app = express();
 
 const listId = "30abfa2373";
-const apiKey = "424502ce4dec2e18d820d96dd7d161ac-us14";
+const apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 const url = "https://us14.api.mailchimp.com/3.0/lists/" + listId;
 const options = {
     method: "POST",
